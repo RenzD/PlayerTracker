@@ -234,13 +234,13 @@ public class Player implements Serializable {
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
                 new Player("5 Curry", "https://b.fssta.com/uploads/application/nba/headshots/1550.vresize.350.425.medium.7.png", 0.55, 5, 3, 30
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
-                new Player("6 Curry", "https://nhl.bamcontent.com/images/headshots/current/168x168/8474564.jpg", 0.55, 5, 3, 30
+                new Player("6 Curry", "https://b.fssta.com/uploads/application/nba/headshots/1550.vresize.350.425.medium.7.png", 0.55, 5, 3, 30
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
-                new Player("7 Curry", "https://nhl.bamcontent.com/images/headshots/current/168x168/8474564.jpg", 0.55, 5, 3, 30
+                new Player("7 Curry", "https://b.fssta.com/uploads/application/nba/headshots/1550.vresize.350.425.medium.7.png", 0.55, 5, 3, 30
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
-                new Player("8Curry", "https://nhl.bamcontent.com/images/headshots/current/168x168/8474564.jpg", 0.55, 5, 3, 30
+                new Player("8Curry", "https://b.fssta.com/uploads/application/nba/headshots/1550.vresize.350.425.medium.7.png", 0.55, 5, 3, 30
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
-                new Player("9 Curry", "https://nhl.bamcontent.com/images/headshots/current/168x168/8474564.jpg", 0.55, 5, 3, 30
+                new Player("9 Curry", "https://b.fssta.com/uploads/application/nba/headshots/1550.vresize.350.425.medium.7.png", 0.55, 5, 3, 30
                         , "28", "5", "10", "6", "10", "0.560", "0.900", "3", "0.5", "2"),
 
                 //new Player("", "", "", "", "", "", "", "", "", "", "", ""),

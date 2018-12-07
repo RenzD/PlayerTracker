@@ -59,7 +59,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.playerAst.setText(String.valueOf(players.get(position).playerAst));
         holder.playerReb.setText(String.valueOf(players.get(position).playerReb));
         holder.playerPts.setText(String.valueOf(players.get(position).playerPts));
-
+        holder.itemView.setId(position);
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -15,7 +15,6 @@ import com.bumptech.glide.Glide;
 
 public class PlayerActivity extends AppCompatActivity{
 
-    private Toolbar toolbar;
 
     private Player player;
     ImageView image;
@@ -39,7 +38,7 @@ public class PlayerActivity extends AppCompatActivity{
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_player);
-
+        Toolbar toolbar;
         toolbar = findViewById(R.id.toolbar);
         toolbar.setTitle("PlayerTracker");
         setSupportActionBar(toolbar);

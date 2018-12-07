@@ -14,9 +14,7 @@
             android:layout_width="80dp"
             android:layout_height="match_parent"
             android:text="Date"
-            android:id="@+id/player_Date2"
-            android:layout_centerVertical="true"
-            />
+            android:id="@+id/player_Date2" />
 
         <TextView
             android:gravity="center"
@@ -24,7 +22,6 @@
             android:layout_height="match_parent"
             android:text="Opp"
             android:id="@+id/player_opp2"
-            android:layout_centerVertical="true"
             android:ellipsize="end"
             android:maxLines="1"
             />
@@ -35,35 +32,27 @@
             android:layout_width="55dp"
             android:layout_height="match_parent"
             android:text="FG"
-            android:id="@+id/player_fg2"
-            android:layout_centerVertical="true"
-            />
+            android:id="@+id/player_fg2" />
         <TextView
             android:gravity="center"
             android:layout_width="55dp"
             android:layout_height="match_parent"
             android:text="Ast"
-            android:id="@+id/player_ast2"
-            android:layout_centerVertical="true"
-            />
+            android:id="@+id/player_ast2" />
 
         <TextView
             android:gravity="center"
             android:layout_width="55dp"
             android:layout_height="match_parent"
             android:text="Reb"
-            android:id="@+id/player_reb2"
-            android:layout_centerVertical="true"
-            />
+            android:id="@+id/player_reb2" />
 
         <TextView
             android:gravity="center"
             android:layout_width="55dp"
             android:layout_height="match_parent"
             android:text="Pts"
-            android:id="@+id/player_pts2"
-            android:layout_centerVertical="true"
-            />
+            android:id="@+id/player_pts2" />
 
     </LinearLayout>
 
