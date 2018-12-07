@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent_layout2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:text="Date"
+            android:id="@+id/player_Date2"
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:text="Opp"
+            android:id="@+id/player_opp2"
+            android:layout_centerVertical="true"
+            android:ellipsize="end"
+            android:maxLines="1"
+            />
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:text="FG"
+            android:id="@+id/player_fg2"
+            android:layout_centerVertical="true"
+            />
+        <TextView
+            android:gravity="center"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:text="Ast"
+            android:id="@+id/player_ast2"
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:text="Reb"
+            android:id="@+id/player_reb2"
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:text="Pts"
+            android:id="@+id/player_pts2"
+            android:layout_centerVertical="true"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FG">
+        <item>""</item>
+        <item>"Ascending"</item>
+        <item>"Descending"</item>
+    </string-array>
+    <string-array name="Assist">
+        <item>""</item>
+        <item>"Ascending"</item>
+        <item>"Descending"</item>
+    </string-array>
+    <string-array name="Rebounds">
+        <item>""</item>
+        <item>"Ascending"</item>
+        <item>"Descending"</item>
+    </string-array>
+    <string-array name="Points">
+        <item>""</item>
+        <item>"Ascending"</item>
+        <item>"Descending"</item>
+    </string-array>
+</resources>

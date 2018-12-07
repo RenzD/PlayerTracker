@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LeagueActivity">
+    <item
+        android:id="@id/action_back"
+        android:icon="@drawable/ic_arrow_back_white_24dp"
+        app:showAsAction="always"
+        android:title="Back"
+        />
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:orderInCategory="200"
+        android:title="Search"
+        app:showAsAction="always" />
+
+
+</menu>
